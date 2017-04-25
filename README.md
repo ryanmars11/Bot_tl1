@@ -1,16 +1,13 @@
-# install PvResan
+# install Amolhackers
 
 
-[join to @OpenID](https://telegram.me/openid)
 
-[creator](https://telegram.me/mutepuker)
+[creator](https://telegram.me/Hadi_0121)
 
 
-<b>Source PvResan</b>
 
-very very Tnx @nawr_i_man ❤👑
 
-<i>اين آموزش پولي ميباشد اما ما بصورت رايگان براي شما قرار داده ايم , براي حمايت به ما ستاره بديد و در كانال ما جوين بشيد</i>
+<i>اين آموزش پولي ميباشد اما ما بصورت رايگان براي شما قرار داده ايم , براي حمايت به ما ستاره بديد </i>
 
 #<b>installbot</b>
 ```sh
@@ -52,7 +49,7 @@ your old repository's clone URL
 
 لينك گيتهاب ما يعني 
 
-https://github.com/MutePuker/PvResan.git
+https://github.com/amolhackers/bot-tlegram.git
 
 را جاي گذاري كرده و گزينه
 
@@ -124,9 +121,9 @@ Source Code
 بگذاريد
 
 يعني اگر ادرس شما 
-https://github.com/MutePuker/PvResan
+https://github.com/amolhackers/bot-tlegram
 بود بايد شما به اين صورت واد كنيد
-https://github.com/MutePuker/PvResan.git
+https://github.com/amolhackers/bot-tlegram.git
 
 كار ما تمام شد به چيزي كار نداريم و
 Create Application 
@@ -134,19 +131,19 @@ Create Application
 
 و حالا كافيه وبهوك رباتتون رو با اين آدرس ست كنيد
 مثال
-https://Pvresan-Pvresan.rhcloud.com/Luncher.php
+https://Amolhackers.rhcloud.com/Luncher.php
 و به جاي 
-PVresan
+Amolhackers
 نامي كه انتخاب كرديد بزنيد
 
 در اخر شما يك صفحه جديد باز كنيد و ادرس 
 
-https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhcloud.com/Luncher.php
+https://api.telegram.org/bot<token>/setwebhook?url=https://Amolhackers.rhcloud.com/Luncher.php
 
 را وارد كنيد
 
  - توجه داشته باشيد در قسمت
- - Pvresan-Pvrsan
+ - Amolhackers
  -را به نامي كه انتخاب كرديد تغيير دهيد!
  -------------------------------------------
  در قسمت 
